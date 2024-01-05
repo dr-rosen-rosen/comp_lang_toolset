@@ -19,5 +19,7 @@ dict_names <- list(
   'per_vals' = 'personal_values.dic',
   'pro_soc' = 'prosocial.dic',
   'moral_found' = 'mfd.dic',
-  
+  # sourced from liwc repository
+  'tms' = 'transactive-memory-systems-tms-strength.dicx', # https://doi.org/10.1177/10464964231182130
+  '' = ''
 )
